@@ -1,0 +1,45 @@
+{
+  "creators": [
+    {
+      "creatorName": "",
+      "nameIdentifier": {
+        "nameIdentifier": "0000-0000-0000-0000",
+        "nameIdentifierScheme": "ORCID",
+        "schemeURI": "http://orcid.org/"
+      },
+      "affiliation": "Justus-Liebig-University Giessen"
+    },
+    {
+      "creatorName": "",
+      "nameIdentifier": {
+        "nameIdentifier": "0000-0000-0000-0000",
+        "nameIdentifierScheme": "ORCID",
+        "schemeURI": "http://orcid.org/"
+      },
+      "affiliation": "Philipps-University Marburg"
+    }
+  ],
+  "titles": [
+    {
+      "title": "",
+      "titleType": "",
+      "lang": "en-us"
+    }
+  ],
+  "publisher": "",
+  "publicationYear": "",
+  "descriptions": [
+    {
+      "descriptionType": "Abstract",
+      "lang": "en-us",
+      "description": ""
+    }
+  ],
+  "fundingReferences":[
+    {
+      "funderName": "Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)",
+      "awardNumber": "222641018",
+      "awardTitle": "SFB/TRR 135 TP NN"
+    }
+  ]
+} 
