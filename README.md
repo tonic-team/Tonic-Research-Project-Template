@@ -1,6 +1,6 @@
 # Tonic Research Project Template
 
-This project provides a template structure for research projects within the CRC/TRR 135 according to the results of a joint work with CRC 1158 and CRC 135 (see https://genr.eu/wp/towards-a-standardized-research-folder-structure/) for details.
+This project provides a template structure for research projects within the CRC/TRR 135 according to the results of a joint work with CRC 1158 and CRC 1315 (see https://genr.eu/wp/towards-a-standardized-research-folder-structure/) for details.
 
 # How to create a new study
 
