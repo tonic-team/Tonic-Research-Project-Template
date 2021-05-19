@@ -1,0 +1,69 @@
+# Metadata for DOI registration according to DataCite Metadata Schema 4.1.
+# For detailed schema description see https://doi.org/10.5438/0014
+
+## Required fields
+
+# The main researchers involved. Include digital identifier (e.g., ORCID)
+# if possible, including the prefix to indicate its type.
+authors:
+  -
+    firstname: "Julien"
+    lastname: "Colomb"
+    affiliation: "Institut für Biologie, Virchowweg 6, Humboldt Universität, Berlin, 10117 Germany."
+    id: "ORCID:0000-0002-3127-5520"
+    role: "Data curation"
+
+
+# A title to describe the published resource.
+title: "Example Title"
+
+# Additional information about the resource, e.g., a brief abstract.
+description: |
+  Example description
+  that can contain linebreaks
+  but has to maintain indentation.
+
+# Lit of keywords the resource should be associated with.
+# Give as many keywords as possible, to make the resource findable.
+keywords:
+  - Neuroscience
+  - Electrophysiology
+
+# License information for this resource. Please provide the license name and/or a link to the license.
+# Please add also a corresponding LICENSE file to the repository.
+license:
+  name: "Creative Commons Attribution 4.0 International Public License"
+  url: "https://creativecommons.org/licenses/by/4.0/"
+
+
+
+## Optional Fields
+
+# Funding information for this resource.
+# Separate funder name and grant number by comma.
+funding:
+  - "DFG, DFG.2112280105"
+
+
+
+# Related publications. reftype might be: IsSupplementTo, IsDescribedBy, IsReferencedBy.
+# Please provide digital identifier (e.g., DOI) if possible.
+# Add a prefix to the ID, separated by a colon, to indicate the source.
+# Supported sources are: DOI, arXiv, PMID
+references:
+  -
+    id: "doi:10.xxx/zzzz"
+    reftype: "IsSupplementTo"
+    name: "PublicationName1"
+  -
+    id: "arxiv:mmmm.nnnn"
+    reftype: "IsSupplementTo"
+    name: "PublicationName2"
+  -
+    id: "pmid:nnnnnnnn"
+    reftype: "IsReferencedBy"
+    name: "PublicationName3"
+
+
+# Resource type. Default is Dataset, other possible values are Software, DataPaper, Image, Text.
+resourcetype: Text
