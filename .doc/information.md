@@ -1,7 +1,3 @@
----
-
-You may erase the following information.
-
 # how to use this template
 
 ## Origin
