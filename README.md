@@ -2,10 +2,17 @@
 
 ## Abstract:
 
-## list of experiments :
-
 ## Contributions :
 Instead of writing contributors here, You may use the datacite file (.json if using gitlab, .yml if using GIN), or use a Tenzing spreadsheet https://marton-balazs-kovacs.github.io/tenzing/).
+
+## list of experiments :
+
+## Directl links (inside or outside this repository) :
+
+- todo list: URL
+- data management plan: [01_project_management/05_data_management_plans](01_project_management/05_data_management_plans)
+- Smartfigure tag: URL
+
 
 ## Other information
 
@@ -29,6 +36,9 @@ Check https://github.com/tonic-team/Tonic-Research-Project-Template if you want 
 
 - Make sure every collaborator got to understand what files to find where.
 - This template was meant to be used in a git based workflow. This would allow you to collaborate using issues and pull request. 
+- The use of git submodule technology may help you share and publish only part of this repository. 
+
+Refer to XXX for further information.
 
 
 ## Cheatsheets about what goes where:
@@ -48,6 +58,7 @@ Check https://github.com/tonic-team/Tonic-Research-Project-Template if you want 
     - Put figures ready for publication in the 05_figures/shared_figures folder
     - Put the manuscript (or some important versions of it, if using an external tool for writing it) in the 06_disseminations/02_manuscripts folder. You may want to use full URL to embed figures in the manuscript if the repository is open.
     
+
 
 
 # How to create a new study
