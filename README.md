@@ -26,5 +26,4 @@ You may write a contributors list here, or refer to the datacite file ([.json](d
 
 ## Other information
 
-`This repository follows the Research repository template, v.2.2` see [further information](.doc/information.md)
-
+`This repository follows the Research repository template, v.2.2` see [further information offline](.doc/information.md) or [the online documentation page](https://gin-tonic.netlify.app/) 
