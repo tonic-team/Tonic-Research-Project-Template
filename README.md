@@ -1,21 +1,17 @@
-# Project description
+# Project title
 
 ## Abstract:
 
 ## Contributors :
 
 Corresponding author(s): 
+john doe, johndoe@example.com, https://orcid.org/XXXX-XXXX-XXXX-XXXX
 
-Contributor list: 
-refer to
-datacite file ([.json](datacite.json) 
-datacite file[.yml](datacite.yml)
-Tenzing spreadsheet : URL
+All Contributors: 
 
+You may write a contributors list here, or refer to the datacite file ([.json](datacite.json) if using gitlab, [.yml](datacite.yml) if using GIN), or use a Tenzing spreadsheet https://marton-balazs-kovacs.github.io/tenzing/). Please link to the file here if not listing contributors.
 
-You may write a contributors list here, or refer to the datacite file ([.json](datacite.json) if using gitlab, [.yml](datacite.yml) if using GIN), or use a Tenzing spreadsheet https://marton-balazs-kovacs.github.io/tenzing/). Please erase the options not corresponding to your project.
-
-## list of experiments :
+## List of experiments :
 
 ## Direct links (inside or outside this repository) :
 
