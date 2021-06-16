@@ -5,7 +5,8 @@
 ## Contributors :
 
 Corresponding author(s): 
-john doe, johndoe@example.com, https://orcid.org/XXXX-XXXX-XXXX-XXXX
+
+- jane doe, jane.doe@example.com, https://orcid.org/XXXX-XXXX-XXXX-XXXX
 
 All Contributors: 
 
