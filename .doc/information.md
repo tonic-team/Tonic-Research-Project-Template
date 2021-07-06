@@ -21,7 +21,9 @@ Refer to XXX for further information.
 ## Cheat sheet about what goes where:
 
 - Prior to data acquisition
-    - save all documents related to research planning in the 01-Project_management folder, and update material and methods information as soon as possible. For instance, indicate all information about reagents at the time or purchase. And put any code or variable files created for data acquisition in the 02_material_methods folder.
+    - Save all documents related to research planning in the 01-Project_management folder, and update material and methods information as soon as possible.
+      For instance, indicate all information about reagents at the time of purchase.
+      And put any code or variable files created for data acquisition in the 02_material_methods folder.
 
 - Data acquisition and analysis
     - Data is organised first following experiments, make sure to describe every experiment in a readme file and link to the adequate files saved in 02_material_methods.
