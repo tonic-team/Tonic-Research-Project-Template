@@ -4,13 +4,9 @@
 
 ## Contributors :
 
-Corresponding author(s): 
-
 - jane doe, jane.doe@example.com, https://orcid.org/XXXX-XXXX-XXXX-XXXX
 
-All Contributors: 
-
-You may write a contributors list here, or refer to the datacite file ([.json](datacite.json) if using gitlab, [.yml](datacite.yml) if using GIN), or use a Tenzing spreadsheet https://marton-balazs-kovacs.github.io/tenzing/). Please link to the file here if not listing contributors.
+[Please mention your contributors either by including a contributors list here, or by referring to another file that lists your contributors, see documentation for options and examples.]
 
 ## List of experiments :
 
