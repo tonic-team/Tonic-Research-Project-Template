@@ -12,9 +12,9 @@
 
 ## Direct links (inside or outside this repository)
 
-- todo list: [use issues](/issues)
+- todo list: [use issues](../../issues)
 - data management plan: [01_project_management/05_data_management_plans](01_project_management/05_data_management_plans)
-- Smartfigure tag: URL
+- Smartfigure tag: [YOURTAG](https://sdash.sourcedata.io/?q=YOURTAG) : replace YOURTAG in the url and the text.
 
 ## Other information
 
