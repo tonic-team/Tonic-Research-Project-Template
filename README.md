@@ -25,4 +25,4 @@
 
 ## Contribution
 
-If you are new to this project, familiarise yourself with the vision, set your own role and responsabilities with the team, and read the data management plan. Make sure your contributions can be understood and reused by other members of the team.
+If you are new to this project, familiarise yourself with the vision, set your own role and responsibilities with the team, and read the data management plan. Make sure your contributions can be understood and reused by other members of the team.
