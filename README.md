@@ -6,7 +6,7 @@
 
 ## Contributors
 
-- jane doe, jane.doe@example.com, https://orcid.org/XXXX-XXXX-XXXX-XXXX, role:, special skills
+- jane doe, jane.doe@example.com, https://orcid.org/XXXX-XXXX-XXXX-XXXX, role:, responsibilities: , special skills
 
 [Mention your contributors either by including a contributors list here, or by referring to another file that lists your contributors, see documentation for options and examples. It is good practice to set roles for each contributor at the start of the project and discuss author byline of a future paper early.]
 
