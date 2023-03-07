@@ -57,3 +57,7 @@ Yet to come !
 ## Notes
   
 We have some forks of this repository made for specific communities with additional information.
+
+# Changing folder name
+
+It is advised not to change folder names, so it is kept a standard. Also some implementation of this standard uses submodules, and changing folder name there might break the synchronisation work (one needs to use specific git command to change submodule path).
